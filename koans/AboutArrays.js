@@ -1,3 +1,5 @@
+///done! No errors!! 4/24 (Whole Class Instruction)
+
 describe("About Arrays", function() {
 
   //We shall contemplate truth by testing reality, via spec expectations.
